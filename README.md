@@ -11,7 +11,7 @@
 
 ### Founder & Technical Lead @ [Albedo](https://albedo.dev) · Ukraine 🇺🇦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexbutenko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/butenkoalex)
 [![Website](https://img.shields.io/badge/albedo.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://albedo.dev)
 
 </div>
